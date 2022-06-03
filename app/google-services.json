@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965557388237",
+    "firebase_url": "https://practic-e97fa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "practic-e97fa",
+    "storage_bucket": "practic-e97fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965557388237:android:69fb6780a344f544d3fa84",
+        "android_client_info": {
+          "package_name": "com.example.mypractic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965557388237-h5ctou1hin5gjlbpcvn24p6rj38l08lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc4cVqaRZp260E_ppaoLwNwz4rxIPkM44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965557388237-h5ctou1hin5gjlbpcvn24p6rj38l08lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
